@@ -51,3 +51,4 @@ pivottable
 speechtotext
 sankey
 Agentic
+sunburstchart
