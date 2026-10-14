@@ -11,5 +11,4 @@ lifecycle
 scheduleobj
 databind
 tbody
-Availble
 Scaffolder
