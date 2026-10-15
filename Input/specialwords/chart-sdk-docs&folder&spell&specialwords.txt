@@ -21,7 +21,6 @@ tsx
 graphql
 dev
 orderby
-webapi
 Django
 py
 Axios
@@ -30,8 +29,6 @@ corsheaders
 Middleware
 Uvicorn
 gitignore
-pycache
-fastapi
 tsconfig
 tsc
 dirname
