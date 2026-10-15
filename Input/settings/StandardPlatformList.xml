@@ -305,6 +305,7 @@
     <value>pdf-viewer-sdk</value>
     <value>spreadsheet-editor-sdk</value>
     <value>word-editor-sdk</value>
+	  <value>pptx-editor-sdk</value>
   </repository>
   <repository>
 	  <name>featuretour</name>
