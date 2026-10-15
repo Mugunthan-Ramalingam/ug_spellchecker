@@ -262,6 +262,7 @@
   <value>document-sdk</value>
   <value>word-editor-sdk</value>
   <value>docx-editor-sdk</value>
+  <value>pptx-editor-sdk</value>
  </repository>
 <repository>
   <name>ej2-asp-core-mvc</name>
