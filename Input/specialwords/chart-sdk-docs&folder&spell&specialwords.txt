@@ -34,3 +34,6 @@ tsc
 dirname
 cp
 dotnet
+runserver
+queryset
+pycache
