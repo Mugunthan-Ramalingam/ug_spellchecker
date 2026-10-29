@@ -9,3 +9,7 @@ plist
 Sublayers
 trackpad
 pwsh
+mcp
+dnx
+noninteractive
+repos
