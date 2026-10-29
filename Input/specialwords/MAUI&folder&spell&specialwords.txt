@@ -16,3 +16,6 @@ cartesian
 blazor
 winforms
 winui
+mcp
+dnx
+repos
