@@ -18,5 +18,4 @@ winforms
 winui
 mcp
 dnx
-noninteractive
 repos
