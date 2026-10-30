@@ -9,3 +9,4 @@ plist
 Sublayers
 trackpad
 pwsh
+sfdotnet
