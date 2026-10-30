@@ -387,3 +387,4 @@ https://support.microsoft.com/en-us/excel/functions/covariance-p-function
 https://support.microsoft.com/en-us/excel/functions/chisq-dist-rt-function
 https://support.microsoft.com/en-us/excel/functions/averageifs-function
 https://support.microsoft.com/en-us/excel/functions/seriessum-function
+https://support.microsoft.com/en-us/excel/functions/received-function

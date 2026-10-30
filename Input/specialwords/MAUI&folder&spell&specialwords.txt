@@ -9,4 +9,14 @@ plist
 Sublayers
 trackpad
 pwsh
+prerelease
+configfile
+assistview
+cartesian
+blazor
+winforms
+winui
+mcp
+dnx
+repos
 sfdotnet

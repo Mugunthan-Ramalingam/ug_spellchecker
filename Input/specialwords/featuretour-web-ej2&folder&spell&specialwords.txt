@@ -80,3 +80,5 @@ Aitoff
 smartphones
 overallcontrolcount
 Figma
+Firestore
+Fluxor
